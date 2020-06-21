@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/growth-chart-client/precache-manifest.8a294bd94430403373fad7e8f7a07491.js"
+  "/growth-chart-client/precache-manifest.a42b9f3560f2f3ced056750327aec71a.js"
 );
 
 self.addEventListener('message', (event) => {

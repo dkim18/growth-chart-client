@@ -1,15 +1,22 @@
 {
   "files": {
     "main.css": "/growth-chart-client/static/css/main.bb4c944e.chunk.css",
-    "main.js": "/growth-chart-client/static/js/main.fc9be9c6.chunk.js",
-    "main.js.map": "/growth-chart-client/static/js/main.fc9be9c6.chunk.js.map",
-    "runtime~main.js": "/growth-chart-client/static/js/runtime~main.807001e9.js",
-    "runtime~main.js.map": "/growth-chart-client/static/js/runtime~main.807001e9.js.map",
-    "static/js/2.45e94fd1.chunk.js": "/growth-chart-client/static/js/2.45e94fd1.chunk.js",
-    "static/js/2.45e94fd1.chunk.js.map": "/growth-chart-client/static/js/2.45e94fd1.chunk.js.map",
+    "main.js": "/growth-chart-client/static/js/main.f6f93da6.chunk.js",
+    "main.js.map": "/growth-chart-client/static/js/main.f6f93da6.chunk.js.map",
+    "runtime-main.js": "/growth-chart-client/static/js/runtime-main.1dd5c3e8.js",
+    "runtime-main.js.map": "/growth-chart-client/static/js/runtime-main.1dd5c3e8.js.map",
+    "static/js/2.7d7a4a8c.chunk.js": "/growth-chart-client/static/js/2.7d7a4a8c.chunk.js",
+    "static/js/2.7d7a4a8c.chunk.js.map": "/growth-chart-client/static/js/2.7d7a4a8c.chunk.js.map",
     "index.html": "/growth-chart-client/index.html",
-    "precache-manifest.8a294bd94430403373fad7e8f7a07491.js": "/growth-chart-client/precache-manifest.8a294bd94430403373fad7e8f7a07491.js",
+    "precache-manifest.a42b9f3560f2f3ced056750327aec71a.js": "/growth-chart-client/precache-manifest.a42b9f3560f2f3ced056750327aec71a.js",
     "service-worker.js": "/growth-chart-client/service-worker.js",
-    "static/css/main.bb4c944e.chunk.css.map": "/growth-chart-client/static/css/main.bb4c944e.chunk.css.map"
-  }
+    "static/css/main.bb4c944e.chunk.css.map": "/growth-chart-client/static/css/main.bb4c944e.chunk.css.map",
+    "static/js/2.7d7a4a8c.chunk.js.LICENSE.txt": "/growth-chart-client/static/js/2.7d7a4a8c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dd5c3e8.js",
+    "static/js/2.7d7a4a8c.chunk.js",
+    "static/css/main.bb4c944e.chunk.css",
+    "static/js/main.f6f93da6.chunk.js"
+  ]
 }
