@@ -23,7 +23,7 @@ const UserTable = props => (
             <td>{user.height}</td>
             <td>{user.age}</td>
             <td>{user.gender}</td>
-            <td><a href={`http://growthchart-env-1.eba-5u2btkp6.us-east-2.elasticbeanstalk.com/chart/${user.height}/${user.gender}`} target="_blank" rel="noopener noreferrer">Display Chart</a></td>
+            <td><a href={`https://ornl-coding-sample.herokuapp.com//chart/${user.height}/${user.gender}`} target="_blank" rel="noopener noreferrer">Display Chart</a></td>
             <td>
               <button
                 onClick={() => {
