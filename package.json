@@ -1,6 +1,9 @@
 {
   "name": "growth-chart-client",
   "version": "0.1.1",
+  "engines": {
+    "node": "6.11.1"
+  },
   "private": true,
   "dependencies": {
     "gh-pages": "^2.1.1",
@@ -9,7 +12,7 @@
     "react-scripts": "^3.1.1"
   },
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provider start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
