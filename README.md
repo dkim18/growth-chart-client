@@ -3,8 +3,8 @@
 This project is another sample code with some dynamic aspects via JavaScript/other framework(my choice is React.js.) and this client side web application dynamically interacts with the first code sample and displays the growth chart with different percentile based on user input. This web application also demostrates rendering the right compoments during creating, updating and deleting of child record instead of reloading entire page.
 
 
-I also have deployed this web application on github:<br>
-<a href="https://dkim18.github.io/growth-chart-client/">https://dkim18.github.io/growth-chart-client/</a>
+I also have deployed this web application on heroku:<br>
+<a href="[https://dkim18.github.io/growth-chart-client/](https://ornl-app-client-ee2507a39335.herokuapp.com/)">[https://dkim18.github.io/growth-chart-client/](https://ornl-app-client-ee2507a39335.herokuapp.com/)</a>
 
 
 This sample demonstrates:
