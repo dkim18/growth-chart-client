@@ -4,7 +4,7 @@ This project is another sample code with some dynamic aspects via JavaScript/oth
 
 
 I also have deployed this web application on heroku:<br>
-<a href="[https://dkim18.github.io/growth-chart-client/](https://ornl-app-client-ee2507a39335.herokuapp.com/)">[https://dkim18.github.io/growth-chart-client/](https://ornl-app-client-ee2507a39335.herokuapp.com/)</a>
+<a href="https://ornl-app-client-ee2507a39335.herokuapp.com">https://ornl-app-client-ee2507a39335.herokuapp.com</a>
 
 
 This sample demonstrates:
