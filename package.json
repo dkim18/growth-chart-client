@@ -2,7 +2,8 @@
   "name": "growth-chart-client",
   "version": "0.1.1",  
   "engines": {
-    "node": "18.17.1"
+    "node": "18.17.1",
+     "npm": "9.8.1"
   },
   "private": true,
   "dependencies": {
